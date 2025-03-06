@@ -66,6 +66,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 The data reporting of this project has **Toal sales**,**Toal profit**,**Toal Quantity**,**Sales & Quantity trends**,**Top 10 Customers**
 
-![Data Reporting](dashboard/sales & customers dashboard.png)
+![Data Reporting](dashboard/sales_customers_dashboard.png)
 
 ---
