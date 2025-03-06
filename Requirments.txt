@@ -1,0 +1,3 @@
+#microsoft sql server == current version
+#Tableau public 
+# No external Python libraries are required for this project as it is entirely based on SQL Server.
