@@ -67,7 +67,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 The data reporting of this project has **Toal sales**,**Toal profit**,**Toal Quantity**,**Sales & Quantity trends**,**Top 10 Customers**
 
 **Tableau live link**
-![Tableau public]
 (https://public.tableau.com/views/SalesCustomersDashboard_17411027471820/salescustomersdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Data Reporting](dashboard/sales_customers_dashboard.png)
